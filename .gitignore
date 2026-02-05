@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+backend/.env
+frontend/.env
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Build / output directories (si React ou autre)
+frontend/build/
+backend/dist/
